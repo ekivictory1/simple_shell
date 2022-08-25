@@ -63,7 +63,7 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Eki Victory]([https://github.com/ekivictory1]) and [Williams Agada](https://github.com/Williams1010).
+All code written by [Eki Victory](https://github.com/ekivictory1) and [Williams Agada](https://github.com/Williams1010).
 
 ## Authors
 
